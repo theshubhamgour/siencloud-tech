@@ -17,7 +17,7 @@ html{
 body{
     overflow-x: hidden;
 }
-
+/* #0458f6 */
 .heading, .clients .section-header h2, .section-head h1, .testimonials .section-header h2, .section-head-1 h4{
     margin: 2rem;
     padding-top: 6rem;
@@ -33,8 +33,8 @@ body{
     position: absolute;
     height: 2.5rem;
     width: 2.5rem;
-    border-top: .4rem solid #002e5f;
-    border-left: .4rem solid #002e5f;
+    border-top: .4rem solid #0458f6;
+    border-left: .4rem solid #0458f6;
 }
 
 .faq .heading::before, .faq .heading::after{
