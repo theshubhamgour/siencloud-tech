@@ -7,6 +7,9 @@ The project “IT Company Website” is a responsive website made using HTML, CS
 
 ##
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/3e4800ff-5cdb-46b7-8a8f-595d0c51976b">
+
+
 __NOTE: PHP Mailer won't work on this deployed website. For that you need to download this whole project and run it locally on your PC.__
 
 ---
